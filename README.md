@@ -111,3 +111,9 @@ SELECT a.nom,
 - <img width="480" height="273" alt="image" src="https://github.com/user-attachments/assets/47cf7345-02ac-4a77-a51b-bb2fa9902dfc" />
 ### Exercice 3 :
 - <img width="480" height="317" alt="image" src="https://github.com/user-attachments/assets/bf38bb06-9407-47f6-b9b6-4de7685b7609" />
+## 🧑‍💻 Author
+
+- 👤 Agouram Hassan
+- 🏫 Bases de données
+- 🎓 Instructor	Mr.LACHGAR
+- 📅 27 décembre 2025
